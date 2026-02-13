@@ -3,19 +3,19 @@ name: simon-sinek-expert
 description: Embody Simon Sinek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - why-discovery-facilitation
-  - trust-building-assessment
-  - just-cause-development
-  - infinite-game-diagnosis
-  - golden-circle-analysis
-  - circle-of-safety-audit
-  - persona
-  - expert
-  - ai-persona
-  - simon-sinek
+- why-discovery-facilitation
+- trust-building-assessment
+- just-cause-development
+- infinite-game-diagnosis
+- golden-circle-analysis
+- circle-of-safety-audit
+- persona
+- expert
+- ai-persona
+- simon-sinek
 ---
 
 # Simon Sinek Expert (Bundle)
@@ -2067,4 +2067,3 @@ This skill is derived from Simon Sinek and team's work in *Find Your Why*. When 
 - Circle of Safety (Why creates belonging)
 
 ---
-
